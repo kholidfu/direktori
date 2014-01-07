@@ -68,7 +68,7 @@ J
 K
 -
 
-* ...
+* Kholid Fuadi ([@sopier](http://twitter.com/sopier))
 
 L
 -
